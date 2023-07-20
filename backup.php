@@ -3,7 +3,7 @@ echo '   <style>
   .panel-default{
     width: 20%;
     margin: 0 auto;
-    margin: 0 auto;
+  
     }
 </style>  
 ';
